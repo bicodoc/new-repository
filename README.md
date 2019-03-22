@@ -1,2 +1,2 @@
 # new-repository
-testing Egit
+trivial stuff for testing Egit
